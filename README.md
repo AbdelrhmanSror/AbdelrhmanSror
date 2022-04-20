@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm AbdelrhmanSror</h1>
-<h3 align="center">Recent Software Engineering graduate, Enthusiastic and innovative professional with a sharp technical acumen, passion for software engineering</h3>
+<h3 align="center">Software Engineer, Enthusiastic and innovative professional with a sharp technical acumen, passion for software engineering</h3>
 
 - 🌱 I’m currently learning **Data Engineering Nano-degree at udacity**
 
