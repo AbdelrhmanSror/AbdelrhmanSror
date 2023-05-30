@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **Sror12347@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/file/d/1q1WIzjgTRIEGGdG2ec7QAphPSai2iX1F/edit?usp=docslist_api&filetype=msword](https://docs.google.com/file/d/1q1WIzjgTRIEGGdG2ec7QAphPSai2iX1F/edit?usp=docslist_api&filetype=msword)
+- 📄 Know about my experiences [https://docs.google.com/document/d/1rYepB-ZO0YIJatRWrlsIbRfMDAMw-vFn/edit?usp=sharing&ouid=107245333359751558670&rtpof=true&sd=true](https://docs.google.com/document/d/1rYepB-ZO0YIJatRWrlsIbRfMDAMw-vFn/edit?usp=sharing&ouid=107245333359751558670&rtpof=true&sd=true)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
