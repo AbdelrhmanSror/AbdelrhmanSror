@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/AbdelrhmanSror?tab=repositories](https://github.com/AbdelrhmanSror?tab=repositories)
 
-- 📫 How to reach me **Sror12347@gmail.com**
+- 📫 How to reach me **abdelrahmanasror@gmail.com**
 
 - 📄 Know about my experiences [https://docs.google.com/document/d/1rYepB-ZO0YIJatRWrlsIbRfMDAMw-vFn/edit?usp=sharing&ouid=107245333359751558670&rtpof=true&sd=true](https://docs.google.com/document/d/1rYepB-ZO0YIJatRWrlsIbRfMDAMw-vFn/edit?usp=sharing&ouid=107245333359751558670&rtpof=true&sd=true)
 
