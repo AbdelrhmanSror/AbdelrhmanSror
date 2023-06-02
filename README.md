@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm AbdelrhmanSror</h1>
 <h3 align="center">Software Engineer, Enthusiastic and innovative professional with a sharp technical acumen, passion for software engineering</h3>
 
-- 🌱 I’m currently learning **Data Engineering Nano-degree at udacity**
+- 🌱 I am a software engineer at Asset Technology Group, where I design and architect the backend and create APIs using the Java Spring Boot framework for consumption.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/AbdelrhmanSror?tab=repositories](https://github.com/AbdelrhmanSror?tab=repositories)
 
